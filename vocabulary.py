@@ -1,3 +1,4 @@
+# Basado en: https://github.com/udacity/CVND---Image-Captioning-Project (Recuperado en enero, 2020)
 import nltk
 import pickle
 import os.path
