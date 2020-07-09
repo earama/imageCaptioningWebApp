@@ -1,3 +1,4 @@
+# Basado en: https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning (Recuperado en abril, 2015)
 import torch
 import torch.nn as nn
 import torchvision.models as models
